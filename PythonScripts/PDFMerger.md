@@ -29,7 +29,7 @@ To get started with the PDF Merger, follow these steps:
 1. Run the script in the terminal or command prompt.
 
     ```
-    python merge_pdf.py
+    python PDFMerger.py
     ```
 
 2. You will be prompted to enter the number of PDF files you want to merge.
