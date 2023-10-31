@@ -49,7 +49,3 @@ To get started with the PDF Merger, follow these steps:
 In a future update, we plan to modify the script so that it can merge PDFs from any directory in the file system, regardless of the location of the Python script. This enhancement will make the script more versatile and user-friendly.
 
 If you'd like to contribute to this project or have suggestions for improvements, feel free to create a pull request or open an issue in the repository. We're excited to collaborate on making the PDF Merger even more powerful and convenient for users.
-
----
-
-You can include this README in your project repository, and as you work on the enhancement to merge PDFs from any directory, make sure to update the README accordingly. This will provide clear instructions for users and contributors.
