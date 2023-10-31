@@ -1,7 +1,3 @@
-Certainly, I can help you create a detailed README.md file for your YouTube video downloader script and include a "Future Works" section. Here's the template:
-
----
-
 # YouTube Video Downloader
 
 The YouTube Video Downloader is a Python script that allows you to download YouTube videos by providing the video's URL. It utilizes the `pytube` library to fetch and download the video with the highest resolution available.
@@ -69,7 +65,3 @@ Consider creating a graphical user interface for the script, making it more acce
 Stay up to date with the `pytube` library and regularly update your script to accommodate changes or new features introduced in the library.
 
 If you have ideas for further improvements or would like to contribute to this project, feel free to create a pull request or open an issue in the repository. Your contributions are welcome and appreciated.
-
----
-
-You can include this README in your project repository to provide clear instructions for users and potential contributors. Make sure to update the README as you work on the suggested improvements.
