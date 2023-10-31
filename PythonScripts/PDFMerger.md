@@ -15,7 +15,7 @@ To get started with the PDF Merger, follow these steps:
 1. Clone the repository to your local machine.
 
     ```
-[git clone https://github.com/yourusername/pdf-merger.git](https://github.com/The-Ark-Knight/AutomaingMyLife.git)    
+    git clone https://github.com/The-Ark-Knight/AutomaingMyLife.git
     ```
 
 2. Ensure you have Python and the `PyPDF2` library installed. You can install the library using `pip` if it's not already installed.
