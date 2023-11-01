@@ -14,8 +14,8 @@ Getting started with AutoOrganiser.py is a breeze:
 
 1. **Clone the Repository:** Begin by cloning the repository to your local machine.
 
-    ```bash
-    git clone https://github.com/yourusername/AutoOrganiser.git
+    ```PS
+    git clone https://github.com/The-Ark-Knight/AutomatingMyLife.git
     ```
 
 2. **Install Python:** Ensure you have Python installed on your system. If not, you can download it from the official website.
