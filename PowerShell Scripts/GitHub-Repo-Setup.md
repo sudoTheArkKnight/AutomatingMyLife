@@ -17,7 +17,7 @@ To get started with the GitHub Repository Setup script, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/github-repo-setup.git
+   git clone https://github.com/The-Ark-Kngith/AutomatingMyLife.git
    ```
 
 2. **Install GitHub CLI:**
@@ -28,7 +28,7 @@ To get started with the GitHub Repository Setup script, follow these steps:
 Creating and configuring your GitHub repository is a breeze with the GitHub Repository Setup script:
 
 1. **Run the Script:**
-   Execute the script in your PowerShell 7 terminal.
+   Execute the script in your PowerShell 7 terminal. (Found under PowerShell Scripts Folder)
 
    ```powershell
    ./github-repo-setup.ps1
